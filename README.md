@@ -1,3 +1,4 @@
+# 8 Puzzle Solver implemented using 4 different path-finding algorithms independently.
 # GUI:
 1.	GUI Interface: The GUI is built using Tkinter, a standard Python library for creating graphical user interfaces.
 2.	Puzzle Representation: The 8-puzzle is represented as a 3x3 grid of tiles, with numbers 1-8 representing the tiles and 0 representing the empty space. Each puzzle configuration is stored as a tuple, facilitating efficient manipulation and comparison of states during the solving process.
