@@ -82,7 +82,9 @@
 <br>
 <br>
 <br>
-![image](https://github.com/samahdraz/8Puzzle_with_different_algorithms/assets/100757002/d3e265a2-15ae-4369-87d1-ff4419d601dc)
+<img width="248" alt="image" src="https://github.com/samahdraz/8Puzzle_with_different_4_algorithms/assets/100757002/677de807-1449-41a3-a1c9-2b2e4165de53">
+
+
 
 
 
